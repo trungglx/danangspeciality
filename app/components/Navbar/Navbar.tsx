@@ -40,13 +40,13 @@ const Navbar = () => {
                             <div className="flex sm:hidden flex-shrink-0 items-center border-right">
                                 <Image src="/images/Logo/Logo.svg" alt="logo" width={36} height={36} />
                                 <Link href="/" className='text-2xl font-semibold text-black ml-4'>
-                                    Chef&apos;s Kitchen.
+                                    Danang&apos;s speciality.
                                 </Link>
                             </div>
                             <div className="hidden sm:flex flex-shrink-0 items-center border-right">
                                 <Image src="/images/Logo/Logo.svg" alt="logo" width={56} height={56} />
                                 <Link href="/" className='text-2xl font-semibold text-black ml-4'>
-                                    Chef&apos;s Kitchen.
+                                    Danang&apos;s speciality.
                                 </Link>
                             </div>
 
@@ -73,7 +73,7 @@ const Navbar = () => {
                             <div className='gap-6 hidden lg:flex'>
                                 <div className='flex items-center gap-2'>
                                     <Image src={'/images/Navbar/phone.svg'} alt="phone-image" width={19} height={19} />
-                                    <p className='text-lg font-medium'>+1(909) 235-9814</p>
+                                    <p className='text-lg font-medium'>(+84) 39-820-7434</p>
                                 </div>
                                 {/* <button className='flex justify-end text-xl font-medium bg-bgpink text-pink py-4 px-4 lg:px-8 navbutton rounded-full hover:text-black'>Sign in</button> */}
                                 <Signindialog />

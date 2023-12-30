@@ -60,7 +60,7 @@ const Signin = () => {
                                                 <div className="flex items-center justify-center">
                                                     <Image src="/images/Logo/Logo.svg" alt="logo" width={46} height={46} />
                                                     <Link href="/" className='text-2xl font-semibold text-black ml-4'>
-                                                        Chef&apos;s Kitchen
+                                                        Danang&apos;s speciality
                                                     </Link>
                                                 </div>
                                                 <h2 className="mt-10 text-center text-3xl font-bold tracking-tight text-lightgrey">
