@@ -14,10 +14,10 @@ interface NavigationItem {
 }
 
 const navigation: NavigationItem[] = [
-    { name: 'Home', href: '#home-section', current: false },
-    { name: 'About us', href: '#about-section', current: false },
+    { name: 'Speciality', href: '#home-section', current: false },
+    { name: 'Menu', href: '#about-section', current: false },
     { name: 'Recipe', href: '#cook-section', current: false },
-    { name: 'Gallery', href: '#gallery-section', current: false },
+    { name: 'Delicious', href: '#gallery-section', current: false },
 ]
 
 function classNames(...classes: string[]) {
