@@ -13,26 +13,26 @@ interface cardDataType {
 
 const cardData: cardDataType[] = [
   {
-    imgSrc: "/images/Features/featureOne.svg",
+    imgSrc: "/images/Features/ky.svg",
     heading: "Chả ký",
     subheading: "Sed ut perspiciatis unde omnis iste natus error",
     link: "Learn more",
   },
   {
-    imgSrc: "/images/Features/featureTwo.svg",
+    imgSrc: "/images/Features/cay.svg",
     heading: "Chả cây",
     subheading: "Sed ut perspiciatis unde omnis iste natus error",
     link: "Learn more",
   },
   {
-    imgSrc: "/images/Features/featureThree.svg",
+    imgSrc: "/images/Features/quet.svg",
     heading: "Chả quết",
     subheading: "Sed ut perspiciatis unde omnis iste natus error",
     link: "Learn more",
   },
   {
-    imgSrc: "/images/Features/featureFour.svg",
-    heading: "Chả viên",
+    imgSrc: "/images/Features/vien.svg",
+    heading: "Bò viên",
     subheading: "Sed ut perspiciatis unde omnis iste natus error",
     link: "Learn more",
   },
@@ -62,7 +62,7 @@ const Work = () => {
             triggerOnce={true}
           >
             <p className="text-3xl lg:text-5xl font-semibold text-lightgrey">
-              Chọn món chả yêu thích <br /> ngay.
+              Chọn mua đặt sản chả bò <br /> miền trung.
             </p>
           </Fade>
         </div>
