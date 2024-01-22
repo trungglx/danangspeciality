@@ -17,7 +17,7 @@ const Banner = () => {
               triggerOnce={true}
             >
               <h1 className="text-4xl lg:text-7xl font-semibold mb-5 text-lightgrey md:4px lg:text-start text-center">
-                Chả bò đặc biệt <br /> tại Đà Nẵng
+                Đặc sản chả Bò <br /> tại Đà Nẵng
               </h1>
             </Fade>
             <Fade
@@ -51,7 +51,7 @@ const Banner = () => {
           </div>
 
           <div className="col-span-6 flex justify-center relative">
-            <div className="flex bg-white p-2 gap-5 items-center bottom-10 left-10 rounded-xl absolute">
+            {/* <div className="flex bg-white p-2 gap-5 items-center bottom-10 left-10 rounded-xl absolute">
               <Image
                 src={"/images/Banner/pizza.svg"}
                 alt="pizza-image"
@@ -61,9 +61,9 @@ const Banner = () => {
               <p className="text-lg font-normal">
                 More than 500+ <br /> recipes.
               </p>
-            </div>
+            </div> */}
             <Image
-              src="/images/Banner/banner-image.png"
+              src="/images/Banner/banner.png"
               alt="nothing"
               width={1000}
               height={805}
