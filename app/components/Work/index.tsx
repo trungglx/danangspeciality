@@ -15,26 +15,26 @@ const cardData: cardDataType[] = [
   {
     imgSrc: "/images/Features/ky.svg",
     heading: "Chả ký",
-    subheading: "Sed ut perspiciatis unde omnis iste natus error",
-    link: "Learn more",
+    subheading: "Thích hợp cho nhiều người.",
+    link: "Xem thêm",
   },
   {
     imgSrc: "/images/Features/cay.svg",
     heading: "Chả cây",
-    subheading: "Sed ut perspiciatis unde omnis iste natus error",
-    link: "Learn more",
+    subheading: "Thích hợp dùng ngay tại chỗ.",
+    link: "Xem thêm",
   },
   {
     imgSrc: "/images/Features/quet.svg",
     heading: "Chả quết",
-    subheading: "Sed ut perspiciatis unde omnis iste natus error",
-    link: "Learn more",
+    subheading: "Dùng chế biến nhiều món ăn",
+    link: "Xem thêm",
   },
   {
     imgSrc: "/images/Features/vien.svg",
     heading: "Bò viên",
-    subheading: "Sed ut perspiciatis unde omnis iste natus error",
-    link: "Learn more",
+    subheading: "Thích hợp cho các buổi tiệc.",
+    link: "Xem thêm",
   },
 ];
 
@@ -62,7 +62,7 @@ const Work = () => {
             triggerOnce={true}
           >
             <p className="text-3xl lg:text-5xl font-semibold text-lightgrey">
-              Chọn mua đặt sản chả bò <br /> miền trung.
+              Chọn mua đặt sản chả bò <br /> Đà Nẵng.
             </p>
           </Fade>
         </div>
