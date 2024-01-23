@@ -45,7 +45,7 @@ const Cook = () => {
               triggerOnce={true}
             >
               <h3 className="text-3xl lg:text-5xl font-semibold text-black text-start">
-                Nghề gia truyền về làm chả bò ngon.
+                Nghề gia truyền làm chả bò ngon.
               </h3>
             </Fade>
             <Fade
@@ -57,7 +57,7 @@ const Cook = () => {
             >
               <p className="text-grey md:text-lg font-normal mb-10 text-start mt-2">
                 Với kinh nghiệm nhiều năm, trải qua nhiều đời cải tiến công thức
-                gia truyền của nghề làm chả bò Đà Nẵng, "Chả bò A Quyền" cam kết
+                gia truyền của nghề làm chả bò Đà Nẵng, Chả bò A Quyền cam kết
                 luôn có được hương vị thơm ngon cùng chất lượng đảm bảo, với tay
                 Nghề khả năng cung ứng tốt, luôn được sự tin tưởng của khách
                 hàng và đối tác{" "}
